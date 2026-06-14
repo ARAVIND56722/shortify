@@ -418,22 +418,30 @@ Add screenshots here:
 
 <img width="1877" height="911" alt="image" src="https://github.com/user-attachments/assets/58597562-1d8a-4ec5-864d-bec790a60583" />
 
+### Login
+
+<img width="887" height="652" alt="image" src="https://github.com/user-attachments/assets/75084756-fcf0-4eb3-8830-5c3ece8f4939" />
+
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1870" height="822" alt="image" src="https://github.com/user-attachments/assets/a521ca6b-cbde-4528-9e21-71608976b0f2" />
+
 
 ### Analytics
 
-![Analytics](screenshots/analytics.png)
+<img width="1880" height="903" alt="image" src="https://github.com/user-attachments/assets/66b267c6-7590-4dad-ab7d-3a83dd3737b7" />
+
 
 ### Bulk Upload
 
-![Bulk Upload](screenshots/bulk-upload.png)
+<img width="1470" height="811" alt="image" src="https://github.com/user-attachments/assets/da6687f9-4a28-457d-a704-33d38177f25b" />
+
 
 ### QR Code Generation
 
-![QR Code](screenshots/qr-code.png)
+<img width="1445" height="538" alt="image" src="https://github.com/user-attachments/assets/86de09b0-d4ff-4ea1-8350-182908231261" />
+
 
 ---
 
