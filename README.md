@@ -2,11 +2,16 @@
 
 ## 🚀 Project Overview
 
-URL Shortener Pro is a full-stack SaaS platform that enables users to create, manage, track, and analyze shortened URLs with enterprise-grade analytics. The platform provides secure authentication, QR code generation, custom aliases, click tracking, device analytics, browser insights, bulk URL shortening, and public statistics pages.
+URL Shortener  is a full-stack SaaS platform that enables users to create, manage, track, and analyze shortened URLs with enterprise-grade analytics. The platform provides secure authentication, QR code generation, custom aliases, click tracking, device analytics, browser insights, bulk URL shortening, and public statistics pages.
 
 Built with a modern MERN architecture, the application focuses on performance, scalability, security, and an exceptional user experience.
 
 ---
+
+## 🚀 Live Demo
+
+Frontend:
+https://shortify-dpiegvx51-aravind56722s-projects.vercel.app
 
 ## ✨ Features
 
