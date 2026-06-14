@@ -522,6 +522,8 @@ I am passionate about building scalable full-stack applications, AI-powered solu
 
 💻 GitHub: https://github.com/ARAVIND56722
 
+💻 Portfolio: https://sites.google.com/view/aravindhan-portfolio
+
 Thank you for taking the time to review this project. Feedback and collaboration opportunities are always welcome.
 
 
