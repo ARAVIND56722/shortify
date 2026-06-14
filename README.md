@@ -447,7 +447,7 @@ Add screenshots here:
 
 # 🎥 Loom Video
 
-Demo Video:
+Demo Video: https://www.loom.com/share/56a4fff905c5499eae952a52cc32e2d5
 
 ```text
 Add Loom Video Link Here
