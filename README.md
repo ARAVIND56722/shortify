@@ -507,7 +507,23 @@ Example Sections:
 
 # 👨‍💻 Author
 
-Developed as a production-ready full-stack SaaS application demonstrating modern software engineering principles, scalable architecture, security best practices, and enterprise-grade analytics.
+# 👨‍💻 About the Developer
+
+Hi, I'm **Aravindhan AK**.
+
+I am passionate about building scalable full-stack applications, AI-powered solutions, and blockchain-based systems. This project reflects my interest in designing secure, user-centric, and production-ready software using modern technologies.
+
+
+### Connect With Me
+
+📧 Email: akaravind078@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/aravind345
+
+💻 GitHub: https://github.com/ARAVIND56722
+
+Thank you for taking the time to review this project. Feedback and collaboration opportunities are always welcome.
+
 
 ---
 
