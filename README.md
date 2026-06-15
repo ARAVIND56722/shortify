@@ -10,7 +10,7 @@ Built with a modern MERN architecture, the application focuses on performance, s
 
 ## 🚀 Live Demo
 
-https://shortify-dpiegvx51-aravind56722s-projects.vercel.app
+https://shortify-blond.vercel.app
 
 
 ## ✨ Features
