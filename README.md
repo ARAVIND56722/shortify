@@ -246,15 +246,15 @@ npm run dev
 
 ```env
 PORT=
-MONGO_URI=
-JWT_SECRET=
-BASE_URL=
+MONGODB_URI=mongodb+srv://Url-shortener:Aravind098@cluster0.fhcdimg.mongodb.net/?appName=Cluster0
+JWT_SECRET=mySuperSecretJWTKey123
+BASE_URL=http://localhost:5000
 ```
 
 ## Frontend
 
 ```env
-VITE_API_URL=
+VITE_API_URL=https://shortify-backend-4v3b.onrender.com/api
 ```
 
 ---
